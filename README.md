@@ -61,7 +61,7 @@
 - 通过`module.prop`识别模块功能
 
 ## 3. 依赖提取
-- 分析主程序`Makefile`
+- 分析主程序`fas-rs`
 - 解析`customize.sh`配置
 - 提取`module.prop`中的依赖声明
 
